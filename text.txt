@@ -1,2 +1,5 @@
 meloniro
 bananairo
+priniro
+cakeiro
+crapeiro
