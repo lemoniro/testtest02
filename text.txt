@@ -3,3 +3,5 @@ bananairo
 priniro
 cakeiro
 crapeiro
+cofeeiro
+milkteairo
